@@ -5,4 +5,5 @@ class MobileText extends LitElement {
     return html`<p><slot><slot></p>`;
   }
 }
+
 customElements.define('mobile-text', MobileText);

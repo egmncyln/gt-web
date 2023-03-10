@@ -1,5 +1,5 @@
 import './App.css';
-import './components/ui/text/mobile-text';
+import './components/mobile-text';
 
 function App() {
   return (
